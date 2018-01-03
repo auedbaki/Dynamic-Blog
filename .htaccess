@@ -1,0 +1,5 @@
+ErrorDocument 400 "Server is unable to find this page 400"
+ErrorDocument 401 "Server is unable to find this page 401"
+ErrorDocument 403 "Server is unable to find this page 403"
+ErrorDocument 404 "404 Error Page Not Found"
+ErrorDocument 500 "Server is unable to find this page 500"
